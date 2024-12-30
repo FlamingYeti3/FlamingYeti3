@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning about Python and Neural Networks
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me flamingyeti3@gmail.com
-- 😄 Pronouns: She/They
+- 😄 Pronouns: Any
 - ⚡ Fun fact: im boring as hell
