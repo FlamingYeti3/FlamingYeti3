@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlamingYeti3
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning about Python and Neural Networks
+- 👀 I’m currently interested in Game development
+- 🌱 I’m currently learning about making games in Godot
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me FlamingYeti3 on discord
 - 😄 Pronouns: She/They/It
