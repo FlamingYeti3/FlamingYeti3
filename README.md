@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning about making games in Godot
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me FlamingYeti3 on discord
-- 😄 Pronouns: She/They/It
+- 😄 Pronouns: Ask
 - ⚡ Fun fact: im boring as hell
